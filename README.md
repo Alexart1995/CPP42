@@ -3,7 +3,7 @@
 Introduction to C++ of School 42. It consists of 9 "days", each has small tasks which helps to learn the language. Every exercise has a Makefile.
 
 ## Topics
-* Day00
+- **Day00
   - std::cout
   - writing you first class - phonebook
   - static class members
