@@ -3,30 +3,30 @@
 Introduction to C++ of School 42. It consists of 9 "days", each has small tasks which helps to learn the language. Every exercise has a Makefile.
 
 ## Topics
-- **Day00
+- **Day00**
   - std::cout
   - writing you first class - phonebook
   - static class members
-- Day01
+- **Day01**
   - new and delete
   - references vs pointers
   - switch
-- Day02
+- **Day02**
   - orthodox canonical form
   - operator overloading
-- Day03
+- **Day03**
   - Inheritance
-- Day04
+- **Day04**
   - polymorphism
   - abstract classes
   - interfaces
-- Day05
+- **Day05**
   - exceptions
-- Day06
+- **Day06**
   - casts
-- Day07
+- **Day07**
   - templates
-- Day08
+- **Day08**
   - templated containers
   - iterators
   - algorithms
